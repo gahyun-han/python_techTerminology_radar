@@ -1,0 +1,5 @@
+feedparser
+requests
+google-generativeai
+beautifulsoup4
+scikit-learn
